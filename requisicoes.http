@@ -6,7 +6,7 @@ post http://localhost:3333/courses
 Content-Type: application/json
 
 {
-    "title": "Curso de Fastify"
+    "title": "Curso de Docker"
 }
 #####
 get http://localhost:3333/courses
